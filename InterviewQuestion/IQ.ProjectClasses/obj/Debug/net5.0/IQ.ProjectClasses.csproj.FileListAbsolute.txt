@@ -1,0 +1,12 @@
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\bin\Debug\net5.0\IQ.ProjectClasses.deps.json
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\bin\Debug\net5.0\IQ.ProjectClasses.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\bin\Debug\net5.0\ref\IQ.ProjectClasses.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\bin\Debug\net5.0\IQ.ProjectClasses.pdb
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\IQ.ProjectClasses.csproj.AssemblyReference.cache
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\IQ.ProjectClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\IQ.ProjectClasses.AssemblyInfoInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\IQ.ProjectClasses.AssemblyInfo.cs
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\IQ.ProjectClasses.csproj.CoreCompileInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\IQ.ProjectClasses.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\ref\IQ.ProjectClasses.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.ProjectClasses\obj\Debug\net5.0\IQ.ProjectClasses.pdb

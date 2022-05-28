@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsmKYJafMLxA6cT+56rLiwLiqJ18tyVJvyfuy6jw0ZwVm2Orc/9E0FkggXlRMexNpXa3sW9vj486NtmiTVTpSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taner\\source\\repos\\InterviewQuestion\\IQ.ProjectClasses\\IQ.ProjectClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taner\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\taner\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\taner\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\taner\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

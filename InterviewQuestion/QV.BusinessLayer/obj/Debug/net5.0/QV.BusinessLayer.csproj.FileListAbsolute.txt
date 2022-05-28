@@ -1,0 +1,15 @@
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\bin\Debug\net5.0\QV.BusinessLayer.deps.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\bin\Debug\net5.0\QV.BusinessLayer.runtimeconfig.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\bin\Debug\net5.0\QV.BusinessLayer.runtimeconfig.dev.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\bin\Debug\net5.0\QV.BusinessLayer.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\bin\Debug\net5.0\ref\QV.BusinessLayer.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\bin\Debug\net5.0\QV.BusinessLayer.pdb
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.AssemblyInfo.cs
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\ref\QV.BusinessLayer.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.pdb
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.genruntimeconfig.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.BusinessLayer\obj\Debug\net5.0\QV.BusinessLayer.csproj.AssemblyReference.cache

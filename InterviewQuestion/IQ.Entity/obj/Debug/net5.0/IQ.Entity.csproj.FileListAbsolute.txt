@@ -1,0 +1,15 @@
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\bin\Debug\net5.0\IQ.Entity.deps.json
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\bin\Debug\net5.0\IQ.Entity.runtimeconfig.json
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\bin\Debug\net5.0\IQ.Entity.runtimeconfig.dev.json
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\bin\Debug\net5.0\IQ.Entity.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\bin\Debug\net5.0\ref\IQ.Entity.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\bin\Debug\net5.0\IQ.Entity.pdb
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.AssemblyInfoInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.AssemblyInfo.cs
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.csproj.CoreCompileInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\ref\IQ.Entity.dll
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.pdb
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.genruntimeconfig.cache
+C:\Users\taner\source\repos\InterviewQuestion\IQ.Entity\obj\Debug\net5.0\IQ.Entity.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\IQ.Helper.deps.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\IQ.Helper.runtimeconfig.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\IQ.Helper.runtimeconfig.dev.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\IQ.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\ref\IQ.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\IQ.Helper.pdb
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.csproj.AssemblyReference.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.AssemblyInfoInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.AssemblyInfo.cs
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.csproj.CoreCompileInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\ref\IQ.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.pdb
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\IQ.Helper.genruntimeconfig.cache

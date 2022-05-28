@@ -1,0 +1,14 @@
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\QV.Helper.deps.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\QV.Helper.runtimeconfig.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\QV.Helper.runtimeconfig.dev.json
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\QV.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\ref\QV.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\bin\Debug\net5.0\QV.Helper.pdb
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\QV.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\QV.Helper.AssemblyInfoInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\QV.Helper.AssemblyInfo.cs
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\QV.Helper.csproj.CoreCompileInputs.cache
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\QV.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\ref\QV.Helper.dll
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\QV.Helper.pdb
+C:\Users\taner\source\repos\InterviewQuestion\QV.Helper\obj\Debug\net5.0\QV.Helper.genruntimeconfig.cache

@@ -1,0 +1,42 @@
+marhabalar oncelikle projeyi cok fazla detaylandirmadim ve bazi validasyonlari okumasi uzun olmasin diye eklemedim, token bazli altyapi , .net identity vs gibi islemleri , urun ekleme , campanya tanimala gibi apileri yazip yazmamam gerektigi mail ile sordum lakin bilgi verilmedigini sadece dokumanakileri istediklerini soyledirler
+github hesabimdaki diger repolarda benzer islemleride gorebilirsiiz
+
+
+
+kampanyalari tanimladigim tablo campaign tablosu
+icerisinde asagidaki columnlar mevcut
+[CampaignID]
+[CampaignName]
+[CreatedDate]
+[CampaignStatus]
+[BeginDate]  ----> kampanya baslangic 
+[EndDate]    ----> kampanya bitis , bu columnlari belli bir zaman icerisinde gecerli olabilen kampanlar icin koydun
+[DiscountTypeID] ---> indirimi hangi hesaplama uzerinden yapilacagini tanimlamar icin gerekli 1-Net=> direkt net indirim uygulamak icin ,2-Yüzde fiyat uzerinden yuzde indirim yapmak icin,3-YüzdeHerX her 100 tl icin x lira indirim lakin 100 sadece tanimlama icin var deger degistirilebilir sadece tablolara tanimla yapmaniz yeterlidir
+[DiscountValue](decimal) ---> burada ise ilgili degeri belirleniz gerekiyor yuzde 30 , 25 tl ve ya 5 tl hangi indirim degerini istiyoraniz
+
+kampanya kurallarinin tablosu --> burada bir kampanya icin birden fazla kosul olusturmanizi sagliyor orn son 2 yildan once uye olup 500 tl harcayan , sirket calisanlari gibi
+[CampaignDetailID]  --
+[CampaignID]  --campaign tablosundaki kampanya idsi
+[AddRuleType] --> kampanya kuralinin detaylandirildirigi sayfa
+[Comparing] --> karsilastirma operatorlari
+[Value] --burasi string bir alan ornek vermek gerekirse kosulun degerini burada tanimliyorsunuz 
+[Splitter] -- burasi sadece belli bir her 100 tl'ye 5 tl kosulunu yaptiginiz alan ,splitter 100 tl veya istediginiz alani tanimliyorsunuz
+
+addruletype tablosu
+AddRuleName	ValType
+CreatedDate	1
+Role	2
+TotalPrice	3
+DatefromXDay	2
+BirthDate	1
+DiscountPerEveryPrice	3
+
+valtype 1=> date, 2=>integer, 3=>decimal
+
+comparing tablosu
+ConditonID	Name
+1	EqualTo
+2	GreaterThan
+3	GreaterThanOrEqualTo
+4	LessThan
+5	LessThanOrEqualTo
